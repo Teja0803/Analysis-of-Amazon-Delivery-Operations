@@ -5,4 +5,4 @@ pdf link: https://github.com/Teja0803/Analysis-of-Amazon-Delivery-Operations/blo
 
 ### Dataset Description – Amazon Delivery Operations:
 This dataset contains information related to Amazon delivery operations, focusing on various factors that may influence delivery time efficiency. It includes both numerical and categorical features covering delivery logistics, environmental conditions, agent profiles, and delivery specifics. The primary aim is to analyze and predict delivery times based on these features.
-Dataset link: https://github.com/Teja0803/Analysis-of-Amazon-Delivery-Operations/blob/main/amazon_delivery_dataset.csv
+Dataset link: https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset?select=amazon_delivery.csv
